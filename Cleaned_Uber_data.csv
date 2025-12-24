@@ -1,0 +1,653 @@
+,START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE,Durations,Durations_min,SPEED,Trip_Type,Day_type,Date,Day,Month,Hour,TimeOfDay
+0,2016-01-01 21:11:00,2016-01-01 21:17:00,Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain,0 days 00:06:00,6.0,50.99999999999999,Medium trip,Weekday,2016-01-01,Friday,January,21.0,Night
+2,2016-01-02 20:25:00,2016-01-02 20:38:00,Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies,0 days 00:13:00,13.0,22.153846153846153,Short trip,Weekend,2016-01-02,Saturday,January,20.0,Night
+3,2016-01-05 17:31:00,2016-01-05 17:45:00,Business,Fort Pierce,Fort Pierce,4.7,Meeting,0 days 00:14:00,14.0,20.142857142857142,Short trip,Weekday,2016-01-05,Tuesday,January,17.0,Evening
+4,2016-01-06 14:42:00,2016-01-06 15:49:00,Business,Fort Pierce,West Palm Beach,63.7,Customer Visit,0 days 01:07:00,67.0,57.04477611940299,Long trip,Weekday,2016-01-06,Wednesday,January,14.0,AfterNoon
+5,2016-01-06 17:15:00,2016-01-06 17:19:00,Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain,0 days 00:04:00,4.0,64.5,Short trip,Weekday,2016-01-06,Wednesday,January,17.0,Evening
+6,2016-01-06 17:30:00,2016-01-06 17:35:00,Business,West Palm Beach,Palm Beach,7.1,Meeting,0 days 00:05:00,5.0,85.2,Medium trip,Weekday,2016-01-06,Wednesday,January,17.0,Evening
+7,2016-01-07 13:27:00,2016-01-07 13:33:00,Business,Cary,Cary,0.8,Meeting,0 days 00:06:00,6.0,8.0,Short trip,Weekday,2016-01-07,Thursday,January,13.0,AfterNoon
+8,2016-01-10 08:05:00,2016-01-10 08:25:00,Business,Cary,Morrisville,8.3,Meeting,0 days 00:20:00,20.0,24.900000000000002,Medium trip,Weekend,2016-01-10,Sunday,January,8.0,Morning
+9,2016-01-10 12:17:00,2016-01-10 12:44:00,Business,Jamaica,New York,16.5,Customer Visit,0 days 00:27:00,27.0,36.666666666666664,Medium trip,Weekend,2016-01-10,Sunday,January,12.0,AfterNoon
+10,2016-01-10 15:08:00,2016-01-10 15:51:00,Business,New York,Queens,10.8,Meeting,0 days 00:43:00,43.0,15.069767441860465,Medium trip,Weekend,2016-01-10,Sunday,January,15.0,AfterNoon
+11,2016-01-10 18:18:00,2016-01-10 18:53:00,Business,Elmhurst,New York,7.5,Meeting,0 days 00:35:00,35.0,12.857142857142856,Medium trip,Weekend,2016-01-10,Sunday,January,18.0,Evening
+12,2016-01-10 19:12:00,2016-01-10 19:32:00,Business,Midtown,East Harlem,6.2,Meeting,0 days 00:20:00,20.0,18.6,Medium trip,Weekend,2016-01-10,Sunday,January,19.0,Evening
+13,2016-01-11 08:55:00,2016-01-11 09:21:00,Business,East Harlem,NoMad,6.4,Temporary Site,0 days 00:26:00,26.0,14.76923076923077,Medium trip,Weekday,2016-01-11,Monday,January,8.0,Morning
+14,2016-01-11 11:56:00,2016-01-11 12:03:00,Business,Flatiron District,Midtown,1.6,Errand/Supplies,0 days 00:07:00,7.0,13.714285714285715,Short trip,Weekday,2016-01-11,Monday,January,11.0,Morning
+15,2016-01-11 13:32:00,2016-01-11 13:46:00,Business,Midtown,Midtown East,1.7,Meal/Entertain,0 days 00:14:00,14.0,7.285714285714286,Short trip,Weekday,2016-01-11,Monday,January,13.0,AfterNoon
+16,2016-01-11 14:30:00,2016-01-11 14:43:00,Business,Midtown East,Midtown,1.9,Meal/Entertain,0 days 00:13:00,13.0,8.769230769230768,Short trip,Weekday,2016-01-11,Monday,January,14.0,AfterNoon
+17,2016-01-12 12:33:00,2016-01-12 12:49:00,Business,Midtown,Hudson Square,1.9,Meal/Entertain,0 days 00:16:00,16.0,7.125,Short trip,Weekday,2016-01-12,Tuesday,January,12.0,AfterNoon
+18,2016-01-12 12:53:00,2016-01-12 13:09:00,Business,Hudson Square,Lower Manhattan,4.0,Meal/Entertain,0 days 00:16:00,16.0,15.0,Short trip,Weekday,2016-01-12,Tuesday,January,12.0,AfterNoon
+19,2016-01-12 14:42:00,2016-01-12 14:56:00,Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies,0 days 00:14:00,14.0,7.714285714285714,Short trip,Weekday,2016-01-12,Tuesday,January,14.0,AfterNoon
+20,2016-01-12 15:13:00,2016-01-12 15:28:00,Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit,0 days 00:15:00,15.0,9.6,Short trip,Weekday,2016-01-12,Tuesday,January,15.0,AfterNoon
+21,2016-01-12 15:42:00,2016-01-12 15:54:00,Business,Hell's Kitchen,Midtown,2.0,Errand/Supplies,0 days 00:12:00,12.0,10.0,Short trip,Weekday,2016-01-12,Tuesday,January,15.0,AfterNoon
+22,2016-01-12 16:02:00,2016-01-12 17:00:00,Business,New York,Queens County,15.1,Meeting,0 days 00:58:00,58.0,15.620689655172413,Medium trip,Weekday,2016-01-12,Tuesday,January,16.0,AfterNoon
+23,,,Business,Downtown,Gulfton,11.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+24,,,Business,Gulfton,Downtown,11.8,Meeting,,,,Medium trip,Weekday,,,,,Night
+25,,,Business,Houston,Houston,21.9,Customer Visit,,,,Long trip,Weekday,,,,,Night
+26,,,Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+27,,,Business,Morrisville,Cary,8.0,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+28,,,Business,Cary,Durham,10.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+29,,,Business,Durham,Cary,10.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+30,,,Business,Cary,Cary,4.8,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+31,,,Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+33,,,Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+34,,,Business,Cary,Raleigh,17.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+35,,,Business,Fayetteville Street,Umstead,15.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+36,,,Business,Raleigh,Cary,40.2,Customer Visit,,,,Long trip,Weekday,,,,,Night
+37,,,Business,Cary,Cary,1.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+38,,,Business,Cary,Cary,2.4,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+39,,,Business,Cary,Cary,1.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+40,,,Business,Whitebridge,Hazelwood,2.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+41,,,Business,Hazelwood,Whitebridge,2.3,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+42,,,Business,Whitebridge,Westpark Place,1.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+43,,,Business,Cary,Cary,1.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+44,,,Business,Cary,Cary,0.5,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+45,,,Business,Cary,Cary,1.8,Meeting,,,,Short trip,Weekday,,,,,Night
+46,,,Business,Cary,Raleigh,18.7,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+47,,,Business,Fairmont,Meredith Townes,3.4,Customer Visit,,,,Short trip,Weekday,,,,,Night
+48,,,Business,Raleigh,Raleigh,2.7,Customer Visit,,,,Short trip,Weekday,,,,,Night
+49,,,Business,Raleigh,Cary,12.9,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+50,,,Business,Cary,Raleigh,19.0,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+51,,,Business,Meredith Townes,Leesville Hollow,14.7,Meeting,,,,Medium trip,Weekday,,,,,Night
+52,,,Business,Raleigh,Cary,15.7,Meeting,,,,Medium trip,Weekday,,,,,Night
+53,,,Business,Cary,Cary,4.6,Customer Visit,,,,Short trip,Weekday,,,,,Night
+54,,,Business,Cary,Cary,5.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+55,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+56,,,Business,Durham,Cary,10.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+57,,,Business,Cary,Apex,5.8,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+58,,,Business,Apex,Cary,5.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+59,,,Business,Cary,Apex,5.7,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+60,,,Business,Apex,Cary,5.7,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+61,2016-02-01 10:35:00,2016-02-01 11:15:00,Business,Cary,Chapel Hill,19.4,Customer Visit,0 days 00:40:00,40.0,29.099999999999998,Medium trip,Weekday,2016-02-01,Monday,February,10.0,Morning
+62,2016-02-01 12:10:00,2016-02-01 12:43:00,Business,Chapel Hill,Cary,23.3,Customer Visit,0 days 00:33:00,33.0,42.36363636363636,Long trip,Weekday,2016-02-01,Monday,February,12.0,AfterNoon
+63,2016-02-01 12:56:00,2016-02-01 13:07:00,Business,Northwoods,Whitebridge,3.9,Meal/Entertain,0 days 00:11:00,11.0,21.272727272727273,Short trip,Weekday,2016-02-01,Monday,February,12.0,AfterNoon
+64,2016-02-02 13:04:00,2016-02-02 13:23:00,Business,Whitebridge,Williamsburg Manor,8.3,Meeting,0 days 00:19:00,19.0,26.210526315789476,Medium trip,Weekday,2016-02-02,Tuesday,February,13.0,AfterNoon
+65,2016-02-02 13:51:00,2016-02-02 14:06:00,Business,Cary,Cary,6.0,Errand/Supplies,0 days 00:15:00,15.0,24.0,Medium trip,Weekday,2016-02-02,Tuesday,February,13.0,AfterNoon
+66,2016-02-02 14:38:00,2016-02-02 14:42:00,Business,Cary,Cary,1.6,Errand/Supplies,0 days 00:04:00,4.0,24.0,Short trip,Weekday,2016-02-02,Tuesday,February,14.0,AfterNoon
+67,2016-02-04 08:40:00,2016-02-04 09:01:00,Business,Cary,Morrisville,5.2,Errand/Supplies,0 days 00:21:00,21.0,14.85714285714286,Medium trip,Weekday,2016-02-04,Thursday,February,8.0,Morning
+68,2016-02-04 09:37:00,2016-02-04 10:09:00,Business,Morrisville,Cary,9.7,Meal/Entertain,0 days 00:32:00,32.0,18.1875,Medium trip,Weekday,2016-02-04,Thursday,February,9.0,Morning
+69,2016-02-04 10:26:00,2016-02-04 10:32:00,Business,Cary,Cary,1.6,Meal/Entertain,0 days 00:06:00,6.0,16.0,Short trip,Weekday,2016-02-04,Thursday,February,10.0,Morning
+70,2016-02-04 15:59:00,2016-02-04 16:03:00,Business,Cary,Cary,1.1,Meal/Entertain,0 days 00:04:00,4.0,16.5,Short trip,Weekday,2016-02-04,Thursday,February,15.0,AfterNoon
+71,2016-02-04 16:35:00,2016-02-04 16:39:00,Business,Cary,Cary,1.6,Meal/Entertain,0 days 00:04:00,4.0,24.0,Short trip,Weekday,2016-02-04,Thursday,February,16.0,AfterNoon
+72,2016-02-04 18:04:00,2016-02-04 18:31:00,Business,Whitebridge,Macgregor Downs,9.0,Meeting,0 days 00:27:00,27.0,20.0,Medium trip,Weekday,2016-02-04,Thursday,February,18.0,Evening
+73,2016-02-04 20:36:00,2016-02-04 20:55:00,Business,Cary,Cary,7.7,Meeting,0 days 00:19:00,19.0,24.315789473684212,Medium trip,Weekday,2016-02-04,Thursday,February,20.0,Night
+74,2016-02-05 11:47:00,2016-02-05 12:07:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00,20.0,31.200000000000003,Medium trip,Weekday,2016-02-05,Friday,February,11.0,Morning
+75,2016-02-05 13:22:00,2016-02-05 13:41:00,Business,Durham,Cary,10.4,Meeting,0 days 00:19:00,19.0,32.8421052631579,Medium trip,Weekday,2016-02-05,Friday,February,13.0,AfterNoon
+76,2016-02-06 16:20:00,2016-02-06 16:53:00,Business,Cary,Raleigh,11.4,Between Offices,0 days 00:33:00,33.0,20.727272727272727,Medium trip,Weekend,2016-02-06,Saturday,February,16.0,AfterNoon
+77,2016-02-06 18:57:00,2016-02-06 19:21:00,Business,Raleigh,Cary,9.0,Errand/Supplies,0 days 00:24:00,24.0,22.5,Medium trip,Weekend,2016-02-06,Saturday,February,18.0,Evening
+78,2016-02-06 19:28:00,2016-02-06 19:37:00,Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain,0 days 00:09:00,9.0,21.333333333333336,Short trip,Weekend,2016-02-06,Saturday,February,19.0,Evening
+79,2016-02-07 16:49:00,2016-02-07 17:01:00,Business,Cary,Apex,5.6,Errand/Supplies,0 days 00:12:00,12.0,27.999999999999996,Medium trip,Weekend,2016-02-07,Sunday,February,16.0,AfterNoon
+80,2016-02-07 18:03:00,2016-02-07 18:17:00,Business,Apex,Cary,5.7,Customer Visit,0 days 00:14:00,14.0,24.42857142857143,Medium trip,Weekend,2016-02-07,Sunday,February,18.0,Evening
+81,2016-02-07 18:39:00,2016-02-07 18:53:00,Business,Cary,Morrisville,6.1,Temporary Site,0 days 00:14:00,14.0,26.142857142857142,Medium trip,Weekend,2016-02-07,Sunday,February,18.0,Evening
+82,2016-02-07 20:22:00,2016-02-07 20:40:00,Business,Morrisville,Cary,6.1,Meeting,0 days 00:18:00,18.0,20.333333333333332,Medium trip,Weekend,2016-02-07,Sunday,February,20.0,Night
+83,2016-02-08 12:57:00,2016-02-08 13:08:00,Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain,0 days 00:11:00,11.0,23.454545454545457,Short trip,Weekday,2016-02-08,Monday,February,12.0,AfterNoon
+84,2016-02-08 14:00:00,2016-02-08 14:10:00,Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain,0 days 00:10:00,10.0,16.200000000000003,Short trip,Weekday,2016-02-08,Monday,February,14.0,AfterNoon
+90,2016-02-09 20:24:00,2016-02-09 20:40:00,Business,Morrisville,Cary,6.1,Meal/Entertain,0 days 00:16:00,16.0,22.875,Medium trip,Weekday,2016-02-09,Tuesday,February,20.0,Night
+91,2016-02-11 16:28:00,2016-02-11 17:10:00,Business,Cary,Raleigh,17.3,Meal/Entertain,0 days 00:42:00,42.0,24.714285714285715,Medium trip,Weekday,2016-02-11,Thursday,February,16.0,AfterNoon
+92,2016-02-11 17:49:00,2016-02-11 18:10:00,Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain,0 days 00:21:00,21.0,16.28571428571429,Medium trip,Weekday,2016-02-11,Thursday,February,17.0,Evening
+93,2016-02-11 18:24:00,2016-02-11 18:46:00,Business,Raleigh,Morrisville,13.5,Temporary Site,0 days 00:22:00,22.0,36.81818181818182,Medium trip,Weekday,2016-02-11,Thursday,February,18.0,Evening
+94,2016-02-11 20:36:00,2016-02-11 20:51:00,Business,Morrisville,Cary,6.1,Temporary Site,0 days 00:15:00,15.0,24.4,Medium trip,Weekday,2016-02-11,Thursday,February,20.0,Night
+95,2016-02-12 08:21:00,2016-02-12 08:42:00,Business,Cary,Durham,8.5,Temporary Site,0 days 00:21:00,21.0,24.28571428571429,Medium trip,Weekday,2016-02-12,Friday,February,8.0,Morning
+96,2016-02-12 10:45:00,2016-02-12 10:52:00,Business,Durham,Morrisville,2.6,Temporary Site,0 days 00:07:00,7.0,22.285714285714285,Short trip,Weekday,2016-02-12,Friday,February,10.0,Morning
+97,2016-02-12 11:14:00,2016-02-12 11:35:00,Business,Morrisville,Raleigh,17.0,Customer Visit,0 days 00:21:00,21.0,48.57142857142858,Medium trip,Weekday,2016-02-12,Friday,February,11.0,Morning
+98,2016-02-12 13:02:00,2016-02-12 13:36:00,Business,Raleigh,Cary,18.0,Meeting,0 days 00:34:00,34.0,31.764705882352942,Medium trip,Weekday,2016-02-12,Friday,February,13.0,AfterNoon
+99,2016-02-12 14:49:00,2016-02-12 15:06:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:17:00,17.0,29.647058823529413,Medium trip,Weekday,2016-02-12,Friday,February,14.0,AfterNoon
+100,2016-02-12 15:33:00,2016-02-12 16:06:00,Business,Morrisville,Cary,11.5,Customer Visit,0 days 00:33:00,33.0,20.909090909090907,Medium trip,Weekday,2016-02-12,Friday,February,15.0,AfterNoon
+101,,,Business,Cary,Morrisville,8.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+104,,,Business,East Elmhurst,New York,8.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+105,,,Business,Midtown,Midtown West,2.0,Meeting,,,,Short trip,Weekday,,,,,Night
+106,,,Business,New York,Long Island City,13.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+107,,,Business,Long Island City,Jamaica,13.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+108,,,Business,Katunayake,Unknown Location,43.7,Customer Visit,,,,Long trip,Weekday,,,,,Night
+113,,,Business,Colombo,Colombo,1.8,Temporary Site,,,,Short trip,Weekday,,,,,Night
+115,,,Business,Colombo,Nugegoda,1.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+116,,,Business,Nugegoda,Unknown Location,3.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+117,,,Business,Unknown Location,Colombo,14.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+118,,,Business,Colombo,Colombo,1.7,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+119,,,Business,Colombo,Katunayake,21.4,Temporary Site,,,,Long trip,Weekday,,,,,Night
+120,,,Business,Katunayake,Katunayake,0.5,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+121,,,Business,Unknown Location,Unknown Location,23.5,Temporary Site,,,,Long trip,Weekday,,,,,Night
+122,,,Business,Unknown Location,Islamabad,12.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+123,,,Business,Islamabad,Unknown Location,6.0,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+124,,,Business,Unknown Location,Islamabad,5.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+125,,,Business,Islamabad,Unknown Location,10.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+126,,,Business,Unknown Location,Unknown Location,18.3,Meeting,,,,Medium trip,Weekday,,,,,Night
+127,,,Business,Unknown Location,Unknown Location,11.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+128,,,Business,Unknown Location,Islamabad,7.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+131,,,Business,Islamabad,Unknown Location,7.3,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+140,,,Business,Rawalpindi,Rawalpindi,23.1,Meeting,,,,Long trip,Weekday,,,,,Night
+142,,,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+143,,,Business,Unknown Location,Unknown Location,7.7,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+145,,,Business,Unknown Location,Islamabad,2.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+146,,,Business,Islamabad,Islamabad,4.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+147,,,Business,Islamabad,Unknown Location,8.8,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+148,,,Business,Unknown Location,Unknown Location,8.3,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+149,,,Business,Unknown Location,Unknown Location,22.7,Temporary Site,,,,Long trip,Weekday,,,,,Night
+150,,,Business,Unknown Location,Islamabad,13.0,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+151,,,Business,Islamabad,Noorpur Shahan,8.1,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+152,,,Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+154,,,Business,Unknown Location,Rawalpindi,20.0,Meeting,,,,Long trip,Weekday,,,,,Night
+155,,,Business,Morrisville,Cary,8.1,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+157,,,Business,Preston,Whitebridge,1.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+158,,,Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+159,,,Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+160,,,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+161,,,Business,Tanglewood,Whitebridge,5.8,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+164,,,Business,Cary,Durham,10.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+165,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+169,,,Business,Whitebridge,Waverly Place,7.7,Meeting,,,,Medium trip,Weekday,,,,,Night
+170,,,Business,Waverly Place,Whitebridge,6.8,Meeting,,,,Medium trip,Weekday,,,,,Night
+172,,,Business,Cary,Apex,3.8,Meeting,,,,Short trip,Weekday,,,,,Night
+173,,,Business,Apex,Cary,5.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+175,,,Business,Hazelwood,Whitebridge,6.6,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+176,2016-03-01 18:47:00,2016-03-01 19:10:00,Business,Whitebridge,Wayne Ridge,8.0,Meal/Entertain,0 days 00:23:00,23.0,20.869565217391305,Medium trip,Weekday,2016-03-01,Tuesday,March,18.0,Evening
+177,2016-03-01 21:27:00,2016-03-01 21:45:00,Business,Wayne Ridge,Whitebridge,8.0,Meeting,0 days 00:18:00,18.0,26.666666666666668,Medium trip,Weekday,2016-03-01,Tuesday,March,21.0,Night
+179,2016-03-03 11:04:00,2016-03-03 11:10:00,Business,Westpark Place,Whitebridge,2.3,Errand/Supplies,0 days 00:06:00,6.0,22.999999999999996,Short trip,Weekday,2016-03-03,Thursday,March,11.0,Morning
+180,2016-03-03 14:44:00,2016-03-03 14:58:00,Business,Whitebridge,Northwoods,5.2,Meal/Entertain,0 days 00:14:00,14.0,22.285714285714285,Medium trip,Weekday,2016-03-03,Thursday,March,14.0,AfterNoon
+181,2016-03-03 15:27:00,2016-03-03 15:48:00,Business,Cary,Raleigh,7.6,Customer Visit,0 days 00:21:00,21.0,21.714285714285715,Medium trip,Weekday,2016-03-03,Thursday,March,15.0,AfterNoon
+182,2016-03-03 16:02:00,2016-03-03 16:42:00,Business,Raleigh,Cary,17.3,Meeting,0 days 00:40:00,40.0,25.950000000000003,Medium trip,Weekday,2016-03-03,Thursday,March,16.0,AfterNoon
+183,2016-03-04 07:47:00,2016-03-04 08:06:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:00,19.0,31.263157894736846,Medium trip,Weekday,2016-03-04,Friday,March,7.0,Morning
+184,2016-03-04 09:46:00,2016-03-04 10:03:00,Business,Durham,Cary,9.9,Customer Visit,0 days 00:17:00,17.0,34.94117647058824,Medium trip,Weekday,2016-03-04,Friday,March,9.0,Morning
+185,2016-03-04 11:46:00,2016-03-04 12:06:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00,20.0,31.200000000000003,Medium trip,Weekday,2016-03-04,Friday,March,11.0,Morning
+186,2016-03-04 13:03:00,2016-03-04 13:25:00,Business,Durham,Cary,10.9,Meeting,0 days 00:22:00,22.0,29.72727272727273,Medium trip,Weekday,2016-03-04,Friday,March,13.0,AfterNoon
+187,2016-03-04 13:40:00,2016-03-04 14:09:00,Business,Cary,Raleigh,15.7,Customer Visit,0 days 00:29:00,29.0,32.48275862068965,Medium trip,Weekday,2016-03-04,Friday,March,13.0,AfterNoon
+188,2016-03-04 15:56:00,2016-03-04 16:08:00,Business,Raleigh,Raleigh,4.9,Meal/Entertain,0 days 00:12:00,12.0,24.5,Short trip,Weekday,2016-03-04,Friday,March,15.0,AfterNoon
+189,2016-03-04 16:16:00,2016-03-04 16:22:00,Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies,0 days 00:06:00,6.0,8.0,Short trip,Weekday,2016-03-04,Friday,March,16.0,AfterNoon
+190,2016-03-04 16:43:00,2016-03-04 17:12:00,Business,Raleigh,Cary,13.5,Meeting,0 days 00:29:00,29.0,27.93103448275862,Medium trip,Weekday,2016-03-04,Friday,March,16.0,AfterNoon
+191,2016-03-04 19:02:00,2016-03-04 19:08:00,Business,Cary,Morrisville,1.9,Temporary Site,0 days 00:06:00,6.0,18.999999999999996,Short trip,Weekday,2016-03-04,Friday,March,19.0,Evening
+192,2016-03-04 19:16:00,2016-03-04 19:25:00,Business,Morrisville,Cary,2.0,Meal/Entertain,0 days 00:09:00,9.0,13.333333333333334,Short trip,Weekday,2016-03-04,Friday,March,19.0,Evening
+193,2016-03-05 11:44:00,2016-03-05 11:59:00,Business,Cary,Morrisville,6.5,Meal/Entertain,0 days 00:15:00,15.0,26.0,Medium trip,Weekend,2016-03-05,Saturday,March,11.0,Morning
+196,2016-03-05 14:39:00,2016-03-05 15:01:00,Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain,0 days 00:22:00,22.0,21.272727272727273,Medium trip,Weekend,2016-03-05,Saturday,March,14.0,AfterNoon
+197,2016-03-05 16:52:00,2016-03-05 17:13:00,Business,Cary,Morrisville,7.8,Meal/Entertain,0 days 00:21:00,21.0,22.28571428571429,Medium trip,Weekend,2016-03-05,Saturday,March,16.0,AfterNoon
+198,2016-03-05 17:23:00,2016-03-05 17:34:00,Business,Morrisville,Cary,3.9,Meal/Entertain,0 days 00:11:00,11.0,21.272727272727273,Short trip,Weekend,2016-03-05,Saturday,March,17.0,Evening
+199,2016-03-07 09:10:00,2016-03-07 09:20:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0 days 00:10:00,10.0,16.8,Short trip,Weekday,2016-03-07,Monday,March,9.0,Morning
+200,2016-03-07 09:23:00,2016-03-07 09:47:00,Business,Cary,Raleigh,12.4,Customer Visit,0 days 00:24:00,24.0,31.0,Medium trip,Weekday,2016-03-07,Monday,March,9.0,Morning
+201,2016-03-07 12:10:00,2016-03-07 12:26:00,Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit,0 days 00:16:00,16.0,22.125,Medium trip,Weekday,2016-03-07,Monday,March,12.0,AfterNoon
+202,2016-03-07 13:57:00,2016-03-07 14:18:00,Business,Meredith Townes,Leesville Hollow,9.4,Meeting,0 days 00:21:00,21.0,26.85714285714286,Medium trip,Weekday,2016-03-07,Monday,March,13.0,AfterNoon
+203,2016-03-07 15:19:00,2016-03-07 15:45:00,Business,Raleigh,Cary,11.9,Between Offices,0 days 00:26:00,26.0,27.46153846153846,Medium trip,Weekday,2016-03-07,Monday,March,15.0,AfterNoon
+204,2016-03-08 14:38:00,2016-03-08 14:55:00,Business,Whitebridge,Waverly Place,7.2,Between Offices,0 days 00:17:00,17.0,25.411764705882355,Medium trip,Weekday,2016-03-08,Tuesday,March,14.0,AfterNoon
+205,2016-03-08 15:35:00,2016-03-08 16:00:00,Business,Waverly Place,Whitebridge,7.6,Meal/Entertain,0 days 00:25:00,25.0,18.24,Medium trip,Weekday,2016-03-08,Tuesday,March,15.0,AfterNoon
+207,2016-03-10 03:36:00,2016-03-10 03:53:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:17:00,17.0,29.647058823529413,Medium trip,Weekday,2016-03-10,Thursday,March,3.0,Night
+208,2016-03-10 10:08:00,2016-03-10 10:37:00,Business,East Austin,West University,12.8,Meeting,0 days 00:29:00,29.0,26.482758620689655,Medium trip,Weekday,2016-03-10,Thursday,March,10.0,Morning
+211,2016-03-11 09:47:00,2016-03-11 09:59:00,Business,The Drag,Congress Ave District,2.0,Meal/Entertain,0 days 00:12:00,12.0,10.0,Short trip,Weekday,2016-03-11,Friday,March,9.0,Morning
+218,,,Business,The Drag,Convention Center District,5.7,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+219,,,Business,South Congress,North Austin,8.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+220,,,Business,Georgian Acres,The Drag,6.2,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+221,,,Business,The Drag,North Austin,10.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+222,,,Business,North Austin,Coxville,7.2,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+224,,,Business,The Drag,South Congress,2.0,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+226,,,Business,The Drag,Convention Center District,2.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+227,,,Business,Downtown,The Drag,2.8,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+228,,,Business,The Drag,Congress Ave District,1.7,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+230,,,Business,West University,Congress Ave District,2.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+232,,,Business,Austin,Katy,136.0,Customer Visit,,,,Long trip,Weekday,,,,,Night
+233,,,Business,Katy,Houston,30.2,Meeting,,,,Long trip,Weekday,,,,,Night
+234,,,Business,Midtown,Alief,15.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+238,,,Business,Midtown,Midtown,1.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+239,,,Business,Midtown,Midtown,1.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+240,,,Business,Midtown,Sharpstown,13.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+241,,,Business,Sharpstown,Sharpstown,1.0,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+242,,,Business,Sharpstown,Midtown,9.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+243,,,Business,Midtown,Sharpstown,9.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+244,,,Business,Houston,Sugar Land,12.0,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+245,,,Business,Sugar Land,Houston,35.1,Customer Visit,,,,Long trip,Weekday,,,,,Night
+246,,,Business,Houston,Galveston,36.5,Meal/Entertain,,,,Long trip,Weekday,,,,,Night
+247,,,Business,Galveston,Port Bolivar,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+248,,,Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+250,,,Business,Port Bolivar,Galveston,7.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+251,,,Business,Galveston,Houston,57.0,Customer Visit,,,,Long trip,Weekday,,,,,Night
+252,,,Business,Midtown,Washington Avenue,5.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+253,,,Business,Washington Avenue,Midtown,6.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+256,,,Business,Briar Meadow,Midtown,9.6,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+258,,,Business,Downtown,Midtown,0.9,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+260,,,Business,Sharpstown,Midtown,25.6,Meal/Entertain,,,,Long trip,Weekday,,,,,Night
+261,,,Business,Midtown,Greater Greenspoint,23.0,Meal/Entertain,,,,Long trip,Weekday,,,,,Night
+268,,,Business,Cary,Latta,144.0,Customer Visit,,,,Long trip,Weekday,,,,,Night
+269,,,Business,Latta,Jacksonville,310.3,Customer Visit,,,,Long trip,Weekday,,,,,Night
+270,,,Business,Jacksonville,Kissimmee,201.0,Meeting,,,,Long trip,Weekday,,,,,Night
+274,,,Business,Lake Reams,Lake Reams,2.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+275,,,Business,Orlando,Kissimmee,6.6,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+276,,,Business,Kissimmee,Orlando,6.1,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+286,,,Business,Orlando,Kissimmee,28.8,Meal/Entertain,,,,Long trip,Weekday,,,,,Night
+287,,,Business,Kissimmee,Orlando,16.1,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+288,,,Business,Orlando,Kissimmee,16.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+289,2016-04-01 13:43:00,2016-04-01 14:01:00,Business,Kissimmee,Kissimmee,11.0,Meeting,0 days 00:18:00,18.0,36.66666666666667,Medium trip,Weekday,2016-04-01,Friday,April,13.0,AfterNoon
+290,2016-04-01 14:36:00,2016-04-01 15:24:00,Business,Kissimmee,Orlando,15.5,Customer Visit,0 days 00:48:00,48.0,19.375,Medium trip,Weekday,2016-04-01,Friday,April,14.0,AfterNoon
+291,2016-04-01 16:01:00,2016-04-01 16:49:00,Business,Orlando,Kissimmee,20.3,Meeting,0 days 00:48:00,48.0,25.375,Long trip,Weekday,2016-04-01,Friday,April,16.0,AfterNoon
+295,2016-04-02 12:21:00,2016-04-02 14:47:00,Business,Kissimmee,Daytona Beach,77.3,Customer Visit,0 days 02:26:00,146.0,31.767123287671236,Long trip,Weekend,2016-04-02,Saturday,April,12.0,AfterNoon
+296,2016-04-02 16:57:00,2016-04-02 18:09:00,Business,Daytona Beach,Jacksonville,80.5,Customer Visit,0 days 01:12:00,72.0,67.08333333333334,Long trip,Weekend,2016-04-02,Saturday,April,16.0,AfterNoon
+297,2016-04-02 19:38:00,2016-04-02 22:36:00,Business,Jacksonville,Ridgeland,174.2,Customer Visit,0 days 02:58:00,178.0,58.7191011235955,Long trip,Weekend,2016-04-02,Saturday,April,19.0,Evening
+298,2016-04-02 23:11:00,2016-04-03 01:34:00,Business,Ridgeland,Florence,144.0,Meeting,0 days 02:23:00,143.0,60.41958041958042,Long trip,Weekend,2016-04-02,Saturday,April,23.0,Night
+299,2016-04-03 02:00:00,2016-04-03 04:16:00,Business,Florence,Cary,159.3,Meeting,0 days 02:16:00,136.0,70.27941176470588,Long trip,Weekend,2016-04-03,Sunday,April,2.0,Night
+300,2016-04-05 21:39:00,2016-04-05 21:55:00,Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain,0 days 00:16:00,16.0,29.625,Medium trip,Weekday,2016-04-05,Tuesday,April,21.0,Night
+301,2016-04-06 00:19:00,2016-04-06 00:39:00,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,0 days 00:20:00,20.0,24.0,Medium trip,Weekday,2016-04-06,Wednesday,April,0.0,Night
+302,2016-04-07 18:20:00,2016-04-07 18:39:00,Business,Cary,Morrisville,6.1,Meal/Entertain,0 days 00:19:00,19.0,19.263157894736842,Medium trip,Weekday,2016-04-07,Thursday,April,18.0,Evening
+303,2016-04-07 19:45:00,2016-04-07 20:00:00,Business,Morrisville,Cary,6.1,Errand/Supplies,0 days 00:15:00,15.0,24.4,Medium trip,Weekday,2016-04-07,Thursday,April,19.0,Evening
+304,2016-04-08 12:30:00,2016-04-08 12:48:00,Business,Cary,Durham,10.5,Meeting,0 days 00:18:00,18.0,35.0,Medium trip,Weekday,2016-04-08,Friday,April,12.0,AfterNoon
+305,2016-04-08 13:34:00,2016-04-08 13:51:00,Business,Durham,Cary,8.7,Meal/Entertain,0 days 00:17:00,17.0,30.705882352941174,Medium trip,Weekday,2016-04-08,Friday,April,13.0,AfterNoon
+306,2016-04-08 13:55:00,2016-04-08 14:03:00,Business,Westpark Place,Whitebridge,1.8,Errand/Supplies,0 days 00:08:00,8.0,13.5,Short trip,Weekday,2016-04-08,Friday,April,13.0,AfterNoon
+307,2016-04-08 14:43:00,2016-04-08 15:20:00,Business,Cary,Raleigh,19.1,Meeting,0 days 00:37:00,37.0,30.972972972972975,Medium trip,Weekday,2016-04-08,Friday,April,14.0,AfterNoon
+308,2016-04-08 16:05:00,2016-04-08 16:47:00,Business,Raleigh,Cary,18.6,Meeting,0 days 00:42:00,42.0,26.571428571428577,Medium trip,Weekday,2016-04-08,Friday,April,16.0,AfterNoon
+309,2016-04-12 09:15:00,2016-04-12 09:26:00,Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies,0 days 00:11:00,11.0,15.272727272727273,Short trip,Weekday,2016-04-12,Tuesday,April,9.0,Morning
+310,2016-04-12 09:34:00,2016-04-12 09:53:00,Business,Cary,Raleigh,8.9,Meeting,0 days 00:19:00,19.0,28.10526315789474,Medium trip,Weekday,2016-04-12,Tuesday,April,9.0,Morning
+311,2016-04-12 10:58:00,2016-04-12 11:18:00,Business,Meredith,Cedar Hill,7.5,Customer Visit,0 days 00:20:00,20.0,22.5,Medium trip,Weekday,2016-04-12,Tuesday,April,10.0,Morning
+312,2016-04-12 12:22:00,2016-04-12 12:44:00,Business,Raleigh,Morrisville,15.9,Meeting,0 days 00:22:00,22.0,43.36363636363637,Medium trip,Weekday,2016-04-12,Tuesday,April,12.0,AfterNoon
+313,2016-04-12 13:42:00,2016-04-12 14:01:00,Business,Morrisville,Cary,6.5,Meal/Entertain,0 days 00:19:00,19.0,20.526315789473685,Medium trip,Weekday,2016-04-12,Tuesday,April,13.0,AfterNoon
+314,,,Business,Cary,Holly Springs,15.3,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+315,,,Business,Holly Springs,Cary,13.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+316,,,Business,Cary,Raleigh,11.9,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+317,,,Business,Meredith Townes,Harden Place,1.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+318,,,Business,Raleigh,Cary,15.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+319,,,Business,Cary,Morrisville,6.0,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+320,,,Business,Morrisville,Cary,6.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+321,,,Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+322,,,Business,Wayne Ridge,Whitebridge,8.0,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+323,,,Business,Cary,Raleigh,13.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+324,,,Business,Raleigh,Cary,22.5,Meeting,,,,Long trip,Weekday,,,,,Night
+325,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+326,,,Business,Durham,Cary,10.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+327,,,Business,Whitebridge,Tanglewood,6.0,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+328,,,Business,Tanglewood,Whitebridge,6.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+329,,,Business,Cary,Morrisville,3.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+330,,,Business,Chessington,Chessington,1.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+331,,,Business,Morrisville,Cary,4.2,Between Offices,,,,Short trip,Weekday,,,,,Night
+332,,,Business,Whitebridge,Burtrose,4.9,Between Offices,,,,Short trip,Weekday,,,,,Night
+333,,,Business,Burtrose,Whitebridge,4.8,Between Offices,,,,Short trip,Weekday,,,,,Night
+334,,,Business,Cary,Raleigh,12.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+335,,,Business,Raleigh,Cary,32.8,Customer Visit,,,,Long trip,Weekday,,,,,Night
+336,,,Business,Morrisville,Cary,5.5,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+337,,,Business,Cary,Durham,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+338,,,Business,Durham,Cary,10.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+339,,,Business,Cary,Durham,14.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+340,,,Business,Durham,Cary,18.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+341,,,Business,Whitebridge,Waverly Place,7.7,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+343,2016-05-01 13:45:00,2016-05-01 13:53:00,Business,Whitebridge,Westpark Place,2.1,Meal/Entertain,0 days 00:08:00,8.0,15.75,Short trip,Weekend,2016-05-01,Sunday,May,13.0,AfterNoon
+345,2016-05-01 17:33:00,2016-05-01 17:45:00,Business,Whitebridge,Tanglewood,6.2,Between Offices,0 days 00:12:00,12.0,31.0,Medium trip,Weekend,2016-05-01,Sunday,May,17.0,Evening
+346,2016-05-01 17:54:00,2016-05-01 18:10:00,Business,Tanglewood,Parkway,7.5,Meeting,0 days 00:16:00,16.0,28.125,Medium trip,Weekend,2016-05-01,Sunday,May,17.0,Evening
+347,2016-05-01 22:38:00,2016-05-01 22:49:00,Business,Parkway,Whitebridge,3.1,Errand/Supplies,0 days 00:11:00,11.0,16.90909090909091,Short trip,Weekend,2016-05-01,Sunday,May,22.0,Night
+348,2016-05-02 14:14:00,2016-05-02 14:21:00,Business,Whitebridge,Westpark Place,2.2,Errand/Supplies,0 days 00:07:00,7.0,18.857142857142858,Short trip,Weekday,2016-05-02,Monday,May,14.0,AfterNoon
+349,2016-05-02 15:37:00,2016-05-02 15:48:00,Business,Westpark Place,Whitebridge,3.9,Meal/Entertain,0 days 00:11:00,11.0,21.272727272727273,Short trip,Weekday,2016-05-02,Monday,May,15.0,AfterNoon
+350,2016-05-03 22:20:00,2016-05-03 22:28:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:08:00,8.0,18.75,Short trip,Weekday,2016-05-03,Tuesday,May,22.0,Night
+351,2016-05-04 15:16:00,2016-05-04 15:37:00,Business,Cary,Morrisville,8.7,Meal/Entertain,0 days 00:21:00,21.0,24.857142857142858,Medium trip,Weekday,2016-05-04,Wednesday,May,15.0,AfterNoon
+352,2016-05-04 20:55:00,2016-05-04 21:14:00,Business,Mcvan,Capitol One,14.5,Errand/Supplies,0 days 00:19:00,19.0,45.78947368421053,Medium trip,Weekday,2016-05-04,Wednesday,May,20.0,Night
+353,2016-05-04 21:30:00,2016-05-04 21:36:00,Business,Capitol One,University District,4.5,Meal/Entertain,0 days 00:06:00,6.0,45.0,Short trip,Weekday,2016-05-04,Wednesday,May,21.0,Night
+354,2016-05-04 22:19:00,2016-05-04 22:27:00,Business,University District,Capitol One,5.0,Meal/Entertain,0 days 00:08:00,8.0,37.5,Medium trip,Weekday,2016-05-04,Wednesday,May,22.0,Night
+355,2016-05-05 21:24:00,2016-05-05 21:36:00,Business,Seattle,Redmond,14.2,Meal/Entertain,0 days 00:12:00,12.0,70.99999999999999,Medium trip,Weekday,2016-05-05,Thursday,May,21.0,Night
+356,2016-05-05 22:34:00,2016-05-05 22:40:00,Business,Redmond,Bellevue,2.9,Errand/Supplies,0 days 00:06:00,6.0,28.999999999999996,Short trip,Weekday,2016-05-05,Thursday,May,22.0,Night
+357,2016-05-05 23:55:00,2016-05-06 00:08:00,Business,Bellevue,Seattle,12.9,Meeting,0 days 00:13:00,13.0,59.53846153846154,Medium trip,Weekday,2016-05-05,Thursday,May,23.0,Night
+358,2016-05-06 05:47:00,2016-05-06 06:02:00,Business,Capitol One,Mcvan,14.4,Meeting,0 days 00:15:00,15.0,57.6,Medium trip,Weekday,2016-05-06,Friday,May,5.0,Morning
+359,2016-05-06 16:45:00,2016-05-06 16:59:00,Business,Chapel Hill,Morrisville,17.0,Meeting,0 days 00:14:00,14.0,72.85714285714286,Medium trip,Weekday,2016-05-06,Friday,May,16.0,AfterNoon
+360,2016-05-06 17:18:00,2016-05-06 17:44:00,Business,Morrisville,Cary,7.9,Customer Visit,0 days 00:26:00,26.0,18.23076923076923,Medium trip,Weekday,2016-05-06,Friday,May,17.0,Evening
+361,2016-05-09 06:08:00,2016-05-09 06:25:00,Business,Cary,Morrisville,8.4,Customer Visit,0 days 00:17:00,17.0,29.647058823529413,Medium trip,Weekday,2016-05-09,Monday,May,6.0,Morning
+362,2016-05-09 14:39:00,2016-05-09 15:06:00,Business,San Francisco,Palo Alto,20.5,Between Offices,0 days 00:27:00,27.0,45.55555555555556,Long trip,Weekday,2016-05-09,Monday,May,14.0,AfterNoon
+363,2016-05-09 17:58:00,2016-05-09 18:26:00,Business,Palo Alto,Sunnyvale,9.8,Customer Visit,0 days 00:28:00,28.0,21.0,Medium trip,Weekday,2016-05-09,Monday,May,17.0,Evening
+364,2016-05-09 19:35:00,2016-05-09 19:59:00,Business,Sunnyvale,New York,17.6,Customer Visit,0 days 00:24:00,24.0,44.0,Medium trip,Weekday,2016-05-09,Monday,May,19.0,Evening
+365,2016-05-10 09:03:00,2016-05-10 09:20:00,Business,New York,Menlo Park,9.3,Customer Visit,0 days 00:17:00,17.0,32.82352941176471,Medium trip,Weekday,2016-05-10,Tuesday,May,9.0,Morning
+366,2016-05-10 17:19:00,2016-05-10 17:31:00,Business,Menlo Park,New York,7.9,Customer Visit,0 days 00:12:00,12.0,39.5,Medium trip,Weekday,2016-05-10,Tuesday,May,17.0,Evening
+367,2016-05-11 08:35:00,2016-05-11 09:12:00,Business,New York,San Francisco,25.6,Meeting,0 days 00:37:00,37.0,41.513513513513516,Long trip,Weekday,2016-05-11,Wednesday,May,8.0,Morning
+368,2016-05-11 21:47:00,2016-05-11 22:04:00,Business,Morrisville,Cary,8.1,Meeting,0 days 00:17:00,17.0,28.588235294117645,Medium trip,Weekday,2016-05-11,Wednesday,May,21.0,Night
+369,,,Business,Cary,Morrisville,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+370,,,Business,Morrisville,Cary,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+371,,,Business,Whitebridge,Preston,2.8,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+372,,,Business,Preston,Westpark Place,2.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+373,,,Business,Westpark Place,Whitebridge,1.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+374,,,Business,Cary,Morrisville,8.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+375,,,Business,Morrisville,Raleigh,7.6,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+376,,,Business,Old City,Parkway Museums,2.9,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+377,,,Business,Old City,Hog Island,11.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+378,,,Business,Morrisville,Cary,8.2,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+379,,,Business,Cary,Morrisville,3.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+380,,,Business,Morrisville,Cary,2.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+381,,,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+382,,,Business,Savon Height,Whitebridge,3.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+383,,,Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+385,,,Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+386,,,Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+387,,,Business,Cary,Morrisville,6.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+388,,,Business,Morrisville,Cary,11.3,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+389,,,Business,Cary,Raleigh,14.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+390,,,Business,Raleigh,Cary,14.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+392,2016-06-01 10:19:00,2016-06-01 10:47:00,Business,Cary,Morrisville,6.7,Customer Visit,0 days 00:28:00,28.0,14.357142857142858,Medium trip,Weekday,2016-06-01,Wednesday,June,10.0,Morning
+393,2016-06-01 13:10:00,2016-06-01 13:39:00,Business,Morrisville,Cary,9.6,Meeting,0 days 00:29:00,29.0,19.862068965517242,Medium trip,Weekday,2016-06-01,Wednesday,June,13.0,AfterNoon
+394,2016-06-03 11:29:00,2016-06-03 11:49:00,Business,Cary,Durham,10.4,Meeting,0 days 00:20:00,20.0,31.200000000000003,Medium trip,Weekday,2016-06-03,Friday,June,11.0,Morning
+395,2016-06-03 13:08:00,2016-06-03 13:38:00,Business,Durham,Cary,9.9,Meeting,0 days 00:30:00,30.0,19.8,Medium trip,Weekday,2016-06-03,Friday,June,13.0,AfterNoon
+396,2016-06-03 15:31:00,2016-06-03 15:54:00,Business,Cary,Morrisville,6.0,Meal/Entertain,0 days 00:23:00,23.0,15.652173913043477,Medium trip,Weekday,2016-06-03,Friday,June,15.0,AfterNoon
+397,2016-06-03 18:14:00,2016-06-03 18:29:00,Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies,0 days 00:15:00,15.0,13.2,Short trip,Weekday,2016-06-03,Friday,June,18.0,Evening
+398,2016-06-03 18:41:00,2016-06-03 18:53:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0 days 00:12:00,12.0,15.5,Short trip,Weekday,2016-06-03,Friday,June,18.0,Evening
+399,2016-06-03 19:36:00,2016-06-03 19:42:00,Business,Huntington Woods,Weston,1.7,Errand/Supplies,0 days 00:06:00,6.0,17.0,Short trip,Weekday,2016-06-03,Friday,June,19.0,Evening
+400,2016-06-03 22:47:00,2016-06-03 23:06:00,Business,Morrisville,Cary,4.0,Between Offices,0 days 00:19:00,19.0,12.631578947368421,Short trip,Weekday,2016-06-03,Friday,June,22.0,Night
+401,2016-06-05 14:03:00,2016-06-05 14:33:00,Business,Whitebridge,Savon Height,7.8,Customer Visit,0 days 00:30:00,30.0,15.6,Medium trip,Weekend,2016-06-05,Sunday,June,14.0,AfterNoon
+402,2016-06-05 15:06:00,2016-06-05 15:22:00,Business,Cary,Morrisville,7.8,Customer Visit,0 days 00:16:00,16.0,29.25,Medium trip,Weekend,2016-06-05,Sunday,June,15.0,AfterNoon
+403,2016-06-05 15:57:00,2016-06-05 16:08:00,Business,Weston,Weston,3.8,Meal/Entertain,0 days 00:11:00,11.0,20.727272727272727,Short trip,Weekend,2016-06-05,Sunday,June,15.0,AfterNoon
+404,2016-06-05 18:05:00,2016-06-05 18:14:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:09:00,9.0,16.666666666666668,Short trip,Weekend,2016-06-05,Sunday,June,18.0,Evening
+405,2016-06-05 21:53:00,2016-06-05 22:05:00,Business,Cary,Durham,9.9,Meeting,0 days 00:12:00,12.0,49.5,Medium trip,Weekend,2016-06-05,Sunday,June,21.0,Night
+406,2016-06-05 23:52:00,2016-06-06 00:08:00,Business,Durham,Cary,9.9,Meeting,0 days 00:16:00,16.0,37.125,Medium trip,Weekend,2016-06-05,Sunday,June,23.0,Night
+407,2016-06-06 15:36:00,2016-06-06 15:45:00,Business,Whitebridge,Hazelwood,3.0,Errand/Supplies,0 days 00:09:00,9.0,20.0,Short trip,Weekday,2016-06-06,Monday,June,15.0,AfterNoon
+408,2016-06-06 16:16:00,2016-06-06 16:24:00,Business,Hazelwood,Whitebridge,2.4,Errand/Supplies,0 days 00:08:00,8.0,18.0,Short trip,Weekday,2016-06-06,Monday,June,16.0,AfterNoon
+409,2016-06-06 20:06:00,2016-06-06 20:20:00,Business,Cary,Apex,5.7,Meal/Entertain,0 days 00:14:00,14.0,24.42857142857143,Medium trip,Weekday,2016-06-06,Monday,June,20.0,Night
+410,2016-06-06 21:08:00,2016-06-06 21:37:00,Business,Apex,Cary,7.2,Meal/Entertain,0 days 00:29:00,29.0,14.89655172413793,Medium trip,Weekday,2016-06-06,Monday,June,21.0,Night
+411,2016-06-06 21:41:00,2016-06-06 22:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:00,19.0,32.8421052631579,Medium trip,Weekday,2016-06-06,Monday,June,21.0,Night
+412,2016-06-06 23:34:00,2016-06-06 23:48:00,Business,Durham,Cary,9.9,Meeting,0 days 00:14:00,14.0,42.42857142857143,Medium trip,Weekday,2016-06-06,Monday,June,23.0,Night
+413,2016-06-07 21:42:00,2016-06-07 22:00:00,Business,Cary,Durham,10.4,Meeting,0 days 00:18:00,18.0,34.66666666666667,Medium trip,Weekday,2016-06-07,Tuesday,June,21.0,Night
+414,2016-06-07 23:41:00,2016-06-08 00:04:00,Business,Durham,Cary,9.9,Meeting,0 days 00:23:00,23.0,25.82608695652174,Medium trip,Weekday,2016-06-07,Tuesday,June,23.0,Night
+415,2016-06-08 08:23:00,2016-06-08 08:53:00,Business,Cary,Morrisville,8.7,Meal/Entertain,0 days 00:30:00,30.0,17.4,Medium trip,Weekday,2016-06-08,Wednesday,June,8.0,Morning
+416,2016-06-08 12:04:00,2016-06-08 13:01:00,Business,Jamaica,New York,22.3,Errand/Supplies,0 days 00:57:00,57.0,23.47368421052632,Long trip,Weekday,2016-06-08,Wednesday,June,12.0,AfterNoon
+417,2016-06-08 13:12:00,2016-06-08 13:29:00,Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain,0 days 00:17:00,17.0,11.647058823529411,Short trip,Weekday,2016-06-08,Wednesday,June,13.0,AfterNoon
+418,2016-06-08 14:31:00,2016-06-08 14:37:00,Business,Medical Centre,Tudor City,0.7,Errand/Supplies,0 days 00:06:00,6.0,6.999999999999999,Short trip,Weekday,2016-06-08,Wednesday,June,14.0,AfterNoon
+419,2016-06-08 16:55:00,2016-06-08 17:11:00,Business,Rose Hill,Soho,2.5,Meal/Entertain,0 days 00:16:00,16.0,9.375,Short trip,Weekday,2016-06-08,Wednesday,June,16.0,AfterNoon
+420,2016-06-08 17:16:00,2016-06-08 17:18:00,Business,Soho,Tribeca,0.5,Errand/Supplies,0 days 00:02:00,2.0,15.0,Short trip,Weekday,2016-06-08,Wednesday,June,17.0,Evening
+421,2016-06-08 17:59:00,2016-06-08 18:05:00,Business,Tribeca,Financial District,0.9,Errand/Supplies,0 days 00:06:00,6.0,9.0,Short trip,Weekday,2016-06-08,Wednesday,June,17.0,Evening
+422,2016-06-08 20:11:00,2016-06-08 20:25:00,Business,Financial District,Kips Bay,4.8,Errand/Supplies,0 days 00:14:00,14.0,20.57142857142857,Short trip,Weekday,2016-06-08,Wednesday,June,20.0,Night
+423,2016-06-10 15:19:00,2016-06-10 16:28:00,Business,New York,Jamaica,16.3,Meeting,0 days 01:09:00,69.0,14.173913043478263,Medium trip,Weekday,2016-06-10,Friday,June,15.0,AfterNoon
+424,2016-06-10 21:47:00,2016-06-10 22:04:00,Business,Cary,Durham,10.4,Meeting,0 days 00:17:00,17.0,36.70588235294118,Medium trip,Weekday,2016-06-10,Friday,June,21.0,Night
+425,2016-06-10 23:53:00,2016-06-11 00:01:00,Business,Durham,Cary,9.9,Meeting,0 days 00:08:00,8.0,74.25,Medium trip,Weekday,2016-06-10,Friday,June,23.0,Night
+426,2016-06-11 17:08:00,2016-06-11 17:16:00,Business,Cary,Morrisville,3.7,Errand/Supplies,0 days 00:08:00,8.0,27.75,Short trip,Weekend,2016-06-11,Saturday,June,17.0,Evening
+427,2016-06-11 17:34:00,2016-06-11 17:39:00,Business,Morrisville,Cary,4.6,Meal/Entertain,0 days 00:05:00,5.0,55.199999999999996,Short trip,Weekend,2016-06-11,Saturday,June,17.0,Evening
+429,2016-06-11 21:45:00,2016-06-11 22:04:00,Business,Cary,Durham,10.4,Meeting,0 days 00:19:00,19.0,32.8421052631579,Medium trip,Weekend,2016-06-11,Saturday,June,21.0,Night
+430,2016-06-11 23:39:00,2016-06-12 00:05:00,Business,Durham,Cary,9.9,Meeting,0 days 00:26:00,26.0,22.846153846153847,Medium trip,Weekend,2016-06-11,Saturday,June,23.0,Night
+431,2016-06-12 19:53:00,2016-06-12 19:56:00,Business,Cary,Morrisville,2.5,Meal/Entertain,0 days 00:03:00,3.0,50.0,Short trip,Weekend,2016-06-12,Sunday,June,19.0,Evening
+432,2016-06-12 20:05:00,2016-06-12 20:16:00,Business,Morrisville,Cary,4.3,Errand/Supplies,0 days 00:11:00,11.0,23.454545454545457,Short trip,Weekend,2016-06-12,Sunday,June,20.0,Night
+433,2016-06-12 21:58:00,2016-06-12 22:19:00,Business,Parkway,Whitebridge,2.8,Errand/Supplies,0 days 00:21:00,21.0,8.0,Short trip,Weekend,2016-06-12,Sunday,June,21.0,Night
+434,,,Business,Cary,Morrisville,8.4,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+435,,,Business,Oakland,Emeryville,13.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+436,,,Business,Emeryville,Berkeley,3.9,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+437,,,Business,Berkeley,Oakland,5.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+438,,,Business,Oakland,Unknown Location,5.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+440,,,Business,San Francisco,Emeryville,11.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+441,,,Business,Emeryville,Oakland,5.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+442,,,Business,Downtown,Bay Farm Island,9.3,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+443,,,Business,Kenner,New Orleans,12.4,Between Offices,,,,Medium trip,Weekday,,,,,Night
+444,,,Business,CBD,Lower Garden District,1.9,Between Offices,,,,Short trip,Weekday,,,,,Night
+445,,,Business,Lower Garden District,Lakeview,6.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+447,,,Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+458,,,Business,Raleigh,Cary,16.6,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+459,,,Business,Whitebridge,Waverly Place,7.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+460,,,Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+461,,,Business,Cary,Raleigh,8.6,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+462,,,Business,Raleigh,Morrisville,9.0,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+463,,,Business,Morrisville,Cary,3.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+464,,,Business,Cary,Morrisville,8.4,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+467,,,Business,New Orleans,Chalmette,11.8,Between Offices,,,,Medium trip,Weekday,,,,,Night
+468,,,Business,Chalmette,Arabi,1.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+469,,,Business,Arabi,Metairie,17.0,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+470,,,Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting,,,,Short trip,Weekday,,,,,Night
+471,,,Business,Metairie,New Orleans,15.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+474,,,Business,New Orleans,Kenner,12.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+489,,,Business,Morrisville,Cary,8.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+490,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+491,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+497,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+498,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+499,,,Business,Cary,Durham,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+500,2016-07-01 00:00:00,2016-07-01 00:25:00,Business,Durham,Cary,9.9,Meeting,0 days 00:25:00,25.0,23.76,Medium trip,Weekday,2016-07-01,Friday,July,0.0,Night
+501,2016-07-01 09:34:00,2016-07-01 09:57:00,Business,Cary,Raleigh,13.3,Meeting,0 days 00:23:00,23.0,34.69565217391304,Medium trip,Weekday,2016-07-01,Friday,July,9.0,Morning
+502,2016-07-01 12:36:00,2016-07-01 13:00:00,Business,Raleigh,Cary,11.3,Meeting,0 days 00:24:00,24.0,28.25,Medium trip,Weekday,2016-07-01,Friday,July,12.0,AfterNoon
+503,2016-07-01 20:06:00,2016-07-01 20:24:00,Business,Cary,Durham,10.5,Meeting,0 days 00:18:00,18.0,35.0,Medium trip,Weekday,2016-07-01,Friday,July,20.0,Night
+504,2016-07-01 23:48:00,2016-07-02 00:09:00,Business,Durham,Cary,9.9,Meeting,0 days 00:21:00,21.0,28.28571428571429,Medium trip,Weekday,2016-07-01,Friday,July,23.0,Night
+505,2016-07-02 20:18:00,2016-07-02 20:36:00,Business,Cary,Durham,10.1,Meeting,0 days 00:18:00,18.0,33.666666666666664,Medium trip,Weekend,2016-07-02,Saturday,July,20.0,Night
+506,2016-07-02 23:48:00,2016-07-03 00:12:00,Business,Durham,Cary,9.9,Meeting,0 days 00:24:00,24.0,24.75,Medium trip,Weekend,2016-07-02,Saturday,July,23.0,Night
+507,2016-07-03 00:28:00,2016-07-03 00:38:00,Business,Cary,Morrisville,3.1,Errand/Supplies,0 days 00:10:00,10.0,18.6,Short trip,Weekend,2016-07-03,Sunday,July,0.0,Night
+508,2016-07-03 03:02:00,2016-07-03 03:08:00,Business,Morrisville,Cary,3.1,Errand/Supplies,0 days 00:06:00,6.0,31.0,Short trip,Weekend,2016-07-03,Sunday,July,3.0,Night
+509,2016-07-03 20:00:00,2016-07-03 20:18:00,Business,Cary,Durham,9.9,Meeting,0 days 00:18:00,18.0,33.0,Medium trip,Weekend,2016-07-03,Sunday,July,20.0,Night
+510,2016-07-04 00:32:00,2016-07-04 00:47:00,Business,Durham,Cary,9.9,Meeting,0 days 00:15:00,15.0,39.6,Medium trip,Weekday,2016-07-04,Monday,July,0.0,Night
+511,2016-07-04 17:31:00,2016-07-04 17:49:00,Business,Whitebridge,Summerwinds,8.8,Meeting,0 days 00:18:00,18.0,29.333333333333336,Medium trip,Weekday,2016-07-04,Monday,July,17.0,Evening
+512,2016-07-04 18:23:00,2016-07-04 18:49:00,Business,Summerwinds,Whitebridge,8.7,Temporary Site,0 days 00:26:00,26.0,20.076923076923073,Medium trip,Weekday,2016-07-04,Monday,July,18.0,Evening
+513,2016-07-04 20:00:00,2016-07-04 20:17:00,Business,Cary,Durham,11.8,Meeting,0 days 00:17:00,17.0,41.64705882352941,Medium trip,Weekday,2016-07-04,Monday,July,20.0,Night
+514,2016-07-05 00:00:00,2016-07-05 00:05:00,Business,Parkwood,Parkwood,1.2,Errand/Supplies,0 days 00:05:00,5.0,14.4,Short trip,Weekday,2016-07-05,Tuesday,July,0.0,Night
+515,2016-07-05 00:08:00,2016-07-05 00:28:00,Business,Durham,Cary,9.9,Meeting,0 days 00:20:00,20.0,29.700000000000003,Medium trip,Weekday,2016-07-05,Tuesday,July,0.0,Night
+516,2016-07-05 16:48:00,2016-07-05 16:52:00,Business,Whitebridge,Whitebridge,0.6,Errand/Supplies,0 days 00:04:00,4.0,9.0,Short trip,Weekday,2016-07-05,Tuesday,July,16.0,AfterNoon
+519,2016-07-06 00:33:00,2016-07-06 00:53:00,Business,Morrisville,Cary,6.3,Meal/Entertain,0 days 00:20:00,20.0,18.900000000000002,Medium trip,Weekday,2016-07-06,Wednesday,July,0.0,Night
+520,2016-07-06 09:06:00,2016-07-06 09:25:00,Business,Cary,Durham,9.9,Meeting,0 days 00:19:00,19.0,31.263157894736846,Medium trip,Weekday,2016-07-06,Wednesday,July,9.0,Morning
+522,2016-07-06 20:04:00,2016-07-06 20:14:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:10:00,10.0,19.8,Short trip,Weekday,2016-07-06,Wednesday,July,20.0,Night
+523,2016-07-06 23:46:00,2016-07-06 23:59:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:13:00,13.0,14.307692307692308,Short trip,Weekday,2016-07-06,Wednesday,July,23.0,Night
+524,2016-07-07 08:22:00,2016-07-07 08:50:00,Business,Cary,Morrisville,7.9,Temporary Site,0 days 00:28:00,28.0,16.92857142857143,Medium trip,Weekday,2016-07-07,Thursday,July,8.0,Morning
+545,,,Business,Morrisville,Morrisville,11.8,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+557,,,Business,Banner Elk,Banner Elk,4.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+558,,,Personal,Banner Elk,Boone,15.1,Charity ($),,,,Medium trip,Weekday,,,,,Night
+559,,,Personal,Boone,Cary,180.2,Commute,,,,Long trip,Weekday,,,,,Night
+560,,,Personal,Cary,Morrisville,4.1,Moving,,,,Short trip,Weekday,,,,,Night
+561,,,Personal,Morrisville,Cary,6.1,Moving,,,,Medium trip,Weekday,,,,,Night
+562,,,Personal,Northwoods,Preston,3.3,Moving,,,,Short trip,Weekday,,,,,Night
+563,,,Personal,Preston,Whitebridge,4.7,Moving,,,,Short trip,Weekday,,,,,Night
+564,,,Business,Cary,Apex,7.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+565,,,Business,Apex,Cary,5.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+566,,,Business,Cary,Morrisville,3.3,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+567,,,Business,Hazelwood,Weston,0.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+568,,,Business,Morrisville,Cary,3.8,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+569,,,Business,Whitebridge,Stonewater,6.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+570,,,Business,Stonewater,Lexington Park at Amberly,3.0,Meeting,,,,Short trip,Weekday,,,,,Night
+571,,,Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+572,,,Business,Whitebridge,Chessington,3.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+585,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+586,,,Business,Cary,Morrisville,6.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+593,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+594,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+601,,,Business,Cary,Morrisville,2.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+602,,,Business,Morrisville,Cary,2.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+608,,,Business,Westpark Place,Whitebridge,2.2,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+620,2016-08-02 08:11:00,2016-08-02 08:32:00,Business,Cary,Morrisville,8.4,Meeting,0 days 00:21:00,21.0,24.000000000000004,Medium trip,Weekday,2016-08-02,Tuesday,August,8.0,Morning
+633,2016-08-07 17:28:00,2016-08-07 17:43:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,0 days 00:15:00,15.0,10.8,Short trip,Weekend,2016-08-07,Sunday,August,17.0,Evening
+635,2016-08-07 20:15:00,2016-08-07 20:23:00,Business,Morrisville,Cary,2.5,Meal/Entertain,0 days 00:08:00,8.0,18.75,Short trip,Weekend,2016-08-07,Sunday,August,20.0,Night
+638,2016-08-08 17:02:00,2016-08-08 17:13:00,Business,Edgehill Farms,Whitebridge,2.7,Customer Visit,0 days 00:11:00,11.0,14.727272727272728,Short trip,Weekday,2016-08-08,Monday,August,17.0,Evening
+640,2016-08-08 23:28:00,2016-08-08 23:37:00,Business,Morrisville,Cary,3.2,Customer Visit,0 days 00:09:00,9.0,21.333333333333336,Short trip,Weekday,2016-08-08,Monday,August,23.0,Night
+655,,,Business,Cary,Morrisville,8.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+659,,,Business,Unknown Location,Unknown Location,25.9,Temporary Site,,,,Long trip,Weekday,,,,,Night
+665,,,Business,Islamabad,Unknown Location,5.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+674,,,Business,Unknown Location,Unknown Location,7.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+675,,,Business,Unknown Location,Unknown Location,7.6,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+683,,,Business,Unknown Location,Unknown Location,7.6,Airport/Travel,,,,Medium trip,Weekday,,,,,Night
+735,,,Business,Islamabad,Unknown Location,5.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+800,2016-10-09 14:04:00,2016-10-09 14:23:00,Business,Unknown Location,Unknown Location,7.7,Temporary Site,0 days 00:19:00,19.0,24.315789473684212,Medium trip,Weekend,2016-10-09,Sunday,October,14.0,AfterNoon
+803,2016-10-11 01:27:00,2016-10-11 02:08:00,Business,Unknown Location,Rawalpindi,17.1,Meeting,0 days 00:41:00,41.0,25.02439024390244,Medium trip,Weekday,2016-10-11,Tuesday,October,1.0,Night
+813,,,Business,Unknown Location,Rawalpindi,17.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+816,,,Business,Cary,Durham,10.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+819,,,Business,Whitebridge,Parkway,2.1,Meeting,,,,Short trip,Weekday,,,,,Night
+821,,,Business,Morrisville,Cary,2.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+829,,,Business,Cary,Morrisville,7.9,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+849,,,Business,Cary,Morrisville,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+850,,,Business,Morrisville,Cary,3.1,Customer Visit,,,,Short trip,Weekday,,,,,Night
+857,,,Business,Whitebridge,Savon Height,3.6,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+859,,,Business,Parkway,Whitebridge,8.7,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+860,,,Business,Whitebridge,Parkway,2.1,Meeting,,,,Short trip,Weekday,,,,,Night
+862,,,Business,Cary,Morrisville,8.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+867,,,Business,Cary,Durham,10.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+868,,,Business,Durham,Cary,9.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+869,,,Business,Cary,Winston Salem,107.0,Meeting,,,,Long trip,Weekday,,,,,Night
+870,,,Business,Winston Salem,Asheville,133.6,Meeting,,,,Long trip,Weekday,,,,,Night
+871,,,Business,Asheville,Topton,91.8,Meeting,,,,Long trip,Weekday,,,,,Night
+872,,,Business,Topton,Hayesville,40.7,Meeting,,,,Long trip,Weekday,,,,,Night
+886,,,Business,Savon Height,Whitebridge,9.6,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+892,2016-11-01 20:41:00,2016-11-01 20:55:00,Business,Whitebridge,Whitebridge,4.2,Meal/Entertain,0 days 00:14:00,14.0,18.0,Short trip,Weekday,2016-11-01,Tuesday,November,20.0,Night
+895,2016-11-02 16:46:00,2016-11-02 17:11:00,Business,Cary,Morrisville,8.5,Meeting,0 days 00:25:00,25.0,20.4,Medium trip,Weekday,2016-11-02,Wednesday,November,16.0,AfterNoon
+902,2016-11-03 18:51:00,2016-11-03 19:08:00,Business,Cary,Morrisville,3.1,Meal/Entertain,0 days 00:17:00,17.0,10.941176470588236,Short trip,Weekday,2016-11-03,Thursday,November,18.0,Evening
+903,2016-11-03 22:46:00,2016-11-03 22:58:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:12:00,12.0,15.5,Short trip,Weekday,2016-11-03,Thursday,November,22.0,Night
+904,2016-11-04 10:02:00,2016-11-04 10:18:00,Business,Cary,Morrisville,7.9,Temporary Site,0 days 00:16:00,16.0,29.625,Medium trip,Weekday,2016-11-04,Friday,November,10.0,Morning
+912,2016-11-06 16:05:00,2016-11-06 16:22:00,Business,Renaissance,Agnew,2.8,Meeting,0 days 00:17:00,17.0,9.882352941176471,Short trip,Weekend,2016-11-06,Sunday,November,16.0,AfterNoon
+913,2016-11-06 16:27:00,2016-11-06 17:28:00,Business,Santa Clara,Berkeley,43.9,Customer Visit,0 days 01:01:00,61.0,43.18032786885246,Long trip,Weekend,2016-11-06,Sunday,November,16.0,AfterNoon
+916,2016-11-07 12:28:00,2016-11-07 12:57:00,Business,Berkeley,San Francisco,11.8,Between Offices,0 days 00:29:00,29.0,24.413793103448278,Medium trip,Weekday,2016-11-07,Monday,November,12.0,AfterNoon
+917,2016-11-07 19:17:00,2016-11-07 19:57:00,Business,San Francisco,Berkeley,13.2,Between Offices,0 days 00:40:00,40.0,19.8,Medium trip,Weekday,2016-11-07,Monday,November,19.0,Evening
+918,2016-11-08 10:29:00,2016-11-08 10:57:00,Business,Berkeley,San Francisco,12.2,Between Offices,0 days 00:28:00,28.0,26.142857142857142,Medium trip,Weekday,2016-11-08,Tuesday,November,10.0,Morning
+919,2016-11-08 12:16:00,2016-11-08 12:49:00,Business,San Francisco,Berkeley,11.3,Meeting,0 days 00:33:00,33.0,20.545454545454547,Medium trip,Weekday,2016-11-08,Tuesday,November,12.0,AfterNoon
+926,2016-11-09 18:21:00,2016-11-09 18:35:00,Business,Ingleside,Potrero Flats,5.5,Meeting,0 days 00:14:00,14.0,23.57142857142857,Medium trip,Weekday,2016-11-09,Wednesday,November,18.0,Evening
+927,2016-11-09 18:40:00,2016-11-09 19:17:00,Business,San Francisco,Oakland,12.7,Customer Visit,0 days 00:37:00,37.0,20.594594594594593,Medium trip,Weekday,2016-11-09,Wednesday,November,18.0,Evening
+930,2016-11-10 09:46:00,2016-11-10 10:15:00,Business,Berkeley,San Francisco,12.6,Temporary Site,0 days 00:29:00,29.0,26.068965517241377,Medium trip,Weekday,2016-11-10,Thursday,November,9.0,Morning
+933,2016-11-10 15:17:00,2016-11-10 15:22:00,Business,San Francisco,Oakland,9.9,Temporary Site,0 days 00:05:00,5.0,118.80000000000001,Medium trip,Weekday,2016-11-10,Thursday,November,15.0,AfterNoon
+934,2016-11-10 15:30:00,2016-11-10 15:53:00,Business,Oakland,Berkeley,6.0,Meeting,0 days 00:23:00,23.0,15.652173913043477,Medium trip,Weekday,2016-11-10,Thursday,November,15.0,AfterNoon
+936,2016-11-11 09:35:00,2016-11-11 10:23:00,Business,Berkeley,Menlo Park,45.9,Customer Visit,0 days 00:48:00,48.0,57.37499999999999,Long trip,Weekday,2016-11-11,Friday,November,9.0,Morning
+939,2016-11-11 14:39:00,2016-11-11 15:46:00,Business,Menlo Park,Berkeley,36.6,Customer Visit,0 days 01:07:00,67.0,32.776119402985074,Long trip,Weekday,2016-11-11,Friday,November,14.0,AfterNoon
+946,2016-11-12 14:22:00,2016-11-12 14:53:00,Business,West Berkeley,South,5.9,Meeting,0 days 00:31:00,31.0,11.419354838709676,Medium trip,Weekend,2016-11-12,Saturday,November,14.0,AfterNoon
+949,2016-11-12 15:40:00,2016-11-12 15:59:00,Business,Emeryville,Berkeley,3.7,Errand/Supplies,0 days 00:19:00,19.0,11.684210526315791,Short trip,Weekend,2016-11-12,Saturday,November,15.0,AfterNoon
+954,,,Business,West Berkeley,Southside,4.0,Meeting,,,,Short trip,Weekday,,,,,Night
+960,,,Business,Berkeley,Mountain View,44.6,Customer Visit,,,,Long trip,Weekday,,,,,Night
+961,,,Business,Mountain View,Berkeley,43.6,Customer Visit,,,,Long trip,Weekday,,,,,Night
+963,,,Business,Emeryville,Berkeley,3.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+965,,,Business,Oakland,San Francisco,9.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+966,,,Business,San Francisco,Berkeley,11.8,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+967,,,Business,Berkeley,El Cerrito,2.3,Temporary Site,,,,Short trip,Weekday,,,,,Night
+968,,,Business,El Cerrito,Berkeley,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+969,,,Business,Berkeley,Oakland,16.3,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+970,,,Business,Cary,Morrisville,3.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+971,,,Business,Morrisville,Cary,5.2,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+972,,,Business,Krendle Woods,Whitebridge,6.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+973,,,Business,Cary,Durham,10.3,Meeting,,,,Medium trip,Weekday,,,,,Night
+974,,,Business,Durham,Cary,10.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+977,,,Business,Cary,Apex,5.4,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+978,,,Business,Apex,Cary,5.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+979,,,Business,Cary,Cary,39.2,Between Offices,,,,Long trip,Weekday,,,,,Night
+980,,,Business,Cary,Cary,6.4,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+981,,,Business,Cary,Cary,2.7,Meeting,,,,Short trip,Weekday,,,,,Night
+982,,,Business,Cary,Cary,18.5,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+983,,,Business,Cary,Cary,2.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+984,,,Business,Cary,Cary,2.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+985,,,Business,Cary,Unknown Location,6.7,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+986,,,Business,Unknown Location,Morrisville,3.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+987,,,Business,Morrisville,Cary,3.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+988,,,Business,Cary,Cary,5.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+989,,,Business,Cary,Cary,4.1,Meeting,,,,Short trip,Weekday,,,,,Night
+990,,,Business,Cary,Cary,12.7,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+991,,,Business,Cary,Morrisville,3.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+992,,,Business,Morrisville,Cary,3.5,Customer Visit,,,,Short trip,Weekday,,,,,Night
+993,,,Business,Cary,Cary,5.9,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+997,,,Business,Cary,Durham,10.3,Meeting,,,,Medium trip,Weekday,,,,,Night
+998,,,Business,Durham,Cary,11.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+1000,,,Business,Cary,Apex,5.1,Meeting,,,,Medium trip,Weekday,,,,,Night
+1001,,,Business,Apex,Holly Springs,9.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+1002,,,Business,Holly Springs,Cary,13.3,Between Offices,,,,Medium trip,Weekday,,,,,Night
+1003,,,Business,Cary,Cary,2.5,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1004,,,Business,Cary,Morrisville,3.3,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1006,,,Business,Cary,Raleigh,8.5,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1007,,,Business,Raleigh,Morrisville,6.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1009,2016-12-01 07:44:00,2016-12-01 07:59:00,Business,Cary,Cary,5.5,Meeting,0 days 00:15:00,15.0,22.0,Medium trip,Weekday,2016-12-01,Thursday,December,7.0,Morning
+1010,2016-12-01 08:37:00,2016-12-01 08:53:00,Business,Cary,Cary,5.5,Errand/Supplies,0 days 00:16:00,16.0,20.625,Medium trip,Weekday,2016-12-01,Thursday,December,8.0,Morning
+1011,2016-12-01 18:00:00,2016-12-01 18:12:00,Business,Cary,Morrisville,2.9,Meal/Entertain,0 days 00:12:00,12.0,14.499999999999998,Short trip,Weekday,2016-12-01,Thursday,December,18.0,Evening
+1012,2016-12-01 20:36:00,2016-12-01 20:46:00,Business,Morrisville,Cary,2.9,Customer Visit,0 days 00:10:00,10.0,17.400000000000002,Short trip,Weekday,2016-12-01,Thursday,December,20.0,Night
+1013,2016-12-02 12:12:00,2016-12-02 12:23:00,Business,Cary,Apex,5.1,Meal/Entertain,0 days 00:11:00,11.0,27.818181818181817,Medium trip,Weekday,2016-12-02,Friday,December,12.0,AfterNoon
+1014,2016-12-02 13:07:00,2016-12-02 13:22:00,Business,Apex,Cary,5.3,Customer Visit,0 days 00:15:00,15.0,21.2,Medium trip,Weekday,2016-12-02,Friday,December,13.0,AfterNoon
+1015,2016-12-02 20:41:00,2016-12-02 20:48:00,Business,Cary,Morrisville,3.3,Meal/Entertain,0 days 00:07:00,7.0,28.285714285714285,Short trip,Weekday,2016-12-02,Friday,December,20.0,Night
+1016,2016-12-02 22:59:00,2016-12-02 23:07:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:08:00,8.0,22.5,Short trip,Weekday,2016-12-02,Friday,December,22.0,Night
+1017,2016-12-03 18:35:00,2016-12-03 18:56:00,Business,Cary,Wake Co.,6.6,Errand/Supplies,0 days 00:21:00,21.0,18.857142857142858,Medium trip,Weekend,2016-12-03,Saturday,December,18.0,Evening
+1019,2016-12-03 20:31:00,2016-12-03 20:41:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:10:00,10.0,18.0,Short trip,Weekend,2016-12-03,Saturday,December,20.0,Night
+1020,2016-12-04 18:56:00,2016-12-04 19:03:00,Business,Cary,Morrisville,2.9,Meal/Entertain,0 days 00:07:00,7.0,24.857142857142858,Short trip,Weekend,2016-12-04,Sunday,December,18.0,Evening
+1021,2016-12-04 20:23:00,2016-12-04 20:34:00,Business,Morrisville,Cary,3.4,Customer Visit,0 days 00:11:00,11.0,18.545454545454547,Short trip,Weekend,2016-12-04,Sunday,December,20.0,Night
+1023,2016-12-05 19:22:00,2016-12-05 19:37:00,Business,Cary,Cary,3.8,Meal/Entertain,0 days 00:15:00,15.0,15.2,Short trip,Weekday,2016-12-05,Monday,December,19.0,Evening
+1024,2016-12-07 12:03:00,2016-12-07 12:32:00,Business,Cary,Cary,6.6,Meeting,0 days 00:29:00,29.0,13.655172413793103,Medium trip,Weekday,2016-12-07,Wednesday,December,12.0,AfterNoon
+1025,2016-12-07 12:35:00,2016-12-07 12:46:00,Business,Cary,Cary,4.0,Meeting,0 days 00:11:00,11.0,21.81818181818182,Short trip,Weekday,2016-12-07,Wednesday,December,12.0,AfterNoon
+1026,2016-12-07 19:53:00,2016-12-07 20:13:00,Business,Cary,Cary,7.0,Customer Visit,0 days 00:20:00,20.0,21.0,Medium trip,Weekday,2016-12-07,Wednesday,December,19.0,Evening
+1027,2016-12-07 21:13:00,2016-12-07 21:50:00,Business,Cary,Cary,6.9,Meal/Entertain,0 days 00:37:00,37.0,11.18918918918919,Medium trip,Weekday,2016-12-07,Wednesday,December,21.0,Night
+1028,2016-12-08 14:19:00,2016-12-08 14:32:00,Business,Cary,Cary,3.4,Errand/Supplies,0 days 00:13:00,13.0,15.692307692307692,Short trip,Weekday,2016-12-08,Thursday,December,14.0,AfterNoon
+1029,2016-12-08 14:53:00,2016-12-08 15:02:00,Business,Cary,Cary,3.4,Errand/Supplies,0 days 00:09:00,9.0,22.666666666666668,Short trip,Weekday,2016-12-08,Thursday,December,14.0,AfterNoon
+1030,2016-12-08 19:22:00,2016-12-08 19:27:00,Business,Cary,Cary,2.0,Meeting,0 days 00:05:00,5.0,24.0,Short trip,Weekday,2016-12-08,Thursday,December,19.0,Evening
+1031,2016-12-08 21:26:00,2016-12-08 21:31:00,Business,Cary,Cary,2.0,Errand/Supplies,0 days 00:05:00,5.0,24.0,Short trip,Weekday,2016-12-08,Thursday,December,21.0,Night
+1032,2016-12-09 12:09:00,2016-12-09 12:24:00,Business,Cary,Apex,5.1,Errand/Supplies,0 days 00:15:00,15.0,20.4,Medium trip,Weekday,2016-12-09,Friday,December,12.0,AfterNoon
+1033,2016-12-09 13:15:00,2016-12-09 13:43:00,Business,Apex,Cary,8.8,Temporary Site,0 days 00:28:00,28.0,18.857142857142858,Medium trip,Weekday,2016-12-09,Friday,December,13.0,AfterNoon
+1034,2016-12-09 20:11:00,2016-12-09 20:34:00,Business,Cary,Cary,5.6,Meeting,0 days 00:23:00,23.0,14.60869565217391,Medium trip,Weekday,2016-12-09,Friday,December,20.0,Night
+1035,2016-12-09 22:03:00,2016-12-09 22:57:00,Business,Cary,Cary,18.9,Customer Visit,0 days 00:54:00,54.0,20.999999999999996,Medium trip,Weekday,2016-12-09,Friday,December,22.0,Night
+1036,2016-12-10 12:43:00,2016-12-10 13:16:00,Business,Cary,Fuquay-Varina,15.6,Meeting,0 days 00:33:00,33.0,28.36363636363636,Medium trip,Weekend,2016-12-10,Saturday,December,12.0,AfterNoon
+1037,2016-12-10 14:42:00,2016-12-10 15:18:00,Business,Fuquay-Varina,Cary,15.6,Errand/Supplies,0 days 00:36:00,36.0,26.0,Medium trip,Weekend,2016-12-10,Saturday,December,14.0,AfterNoon
+1038,2016-12-10 18:17:00,2016-12-10 18:27:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00,10.0,18.0,Short trip,Weekend,2016-12-10,Saturday,December,18.0,Evening
+1039,2016-12-10 22:09:00,2016-12-10 22:21:00,Business,Morrisville,Cary,3.1,Customer Visit,0 days 00:12:00,12.0,15.5,Short trip,Weekend,2016-12-10,Saturday,December,22.0,Night
+1040,2016-12-11 16:06:00,2016-12-11 16:16:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00,10.0,18.0,Short trip,Weekend,2016-12-11,Sunday,December,16.0,AfterNoon
+1041,2016-12-11 19:05:00,2016-12-11 19:15:00,Business,Morrisville,Cary,4.8,Errand/Supplies,0 days 00:10:00,10.0,28.8,Short trip,Weekend,2016-12-11,Sunday,December,19.0,Evening
+1042,2016-12-11 21:48:00,2016-12-11 21:56:00,Business,Cary,Cary,2.1,Errand/Supplies,0 days 00:08:00,8.0,15.75,Short trip,Weekend,2016-12-11,Sunday,December,21.0,Night
+1043,2016-12-12 13:22:00,2016-12-12 13:32:00,Business,Cary,Cary,3.1,Errand/Supplies,0 days 00:10:00,10.0,18.6,Short trip,Weekday,2016-12-12,Monday,December,13.0,AfterNoon
+1044,2016-12-12 13:36:00,2016-12-12 13:51:00,Business,Cary,Apex,4.4,Meal/Entertain,0 days 00:15:00,15.0,17.6,Short trip,Weekday,2016-12-12,Monday,December,13.0,AfterNoon
+1045,2016-12-12 14:26:00,2016-12-12 14:39:00,Business,Apex,Cary,4.7,Customer Visit,0 days 00:13:00,13.0,21.692307692307693,Short trip,Weekday,2016-12-12,Monday,December,14.0,AfterNoon
+1046,2016-12-12 17:51:00,2016-12-12 18:01:00,Business,Cary,Morrisville,3.0,Meal/Entertain,0 days 00:10:00,10.0,18.0,Short trip,Weekday,2016-12-12,Monday,December,17.0,Evening
+1047,2016-12-12 20:48:00,2016-12-12 20:57:00,Business,Morrisville,Cary,3.0,Customer Visit,0 days 00:09:00,9.0,20.0,Short trip,Weekday,2016-12-12,Monday,December,20.0,Night
+1048,,,Business,Cary,Cary,4.2,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1049,,,Business,Cary,Cary,4.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1052,,,Business,Cary,Morrisville,3.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1053,,,Business,Morrisville,Cary,3.1,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1054,,,Business,Cary,Morrisville,10.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+1055,,,Business,Unknown Location,Unknown Location,4.8,Airport/Travel,,,,Short trip,Weekday,,,,,Night
+1056,,,Business,Unknown Location,Unknown Location,5.3,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1057,,,Business,Unknown Location,Unknown Location,4.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1058,,,Business,Unknown Location,Unknown Location,10.2,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+1060,,,Business,Unknown Location,Islamabad,7.7,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+1061,,,Business,Islamabad,Rawalpindi,5.9,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1062,,,Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1067,,,Business,Unknown Location,Rawalpindi,10.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1068,,,Business,Rawalpindi,Islamabad,7.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1070,,,Business,Unknown Location,Unknown Location,11.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+1072,,,Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1073,,,Business,Rawalpindi,Unknown Location,19.4,Meeting,,,,Medium trip,Weekday,,,,,Night
+1074,,,Business,Unknown Location,Unknown Location,1.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1075,,,Business,Unknown Location,Islamabad,5.7,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1076,,,Business,Islamabad,Islamabad,1.8,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1077,,,Business,Islamabad,Islamabad,1.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1078,,,Business,Islamabad,Unknown Location,10.3,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1079,,,Business,Unknown Location,Unknown Location,11.5,Meeting,,,,Medium trip,Weekday,,,,,Night
+1080,,,Business,Unknown Location,Islamabad,4.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1081,,,Business,Islamabad,Unknown Location,3.5,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1082,,,Business,Unknown Location,Unknown Location,16.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+1083,,,Business,Unknown Location,Unknown Location,2.0,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1084,,,Business,Unknown Location,Islamabad,2.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1085,,,Business,Islamabad,Islamabad,2.1,Meeting,,,,Short trip,Weekday,,,,,Night
+1086,,,Business,Islamabad,Unknown Location,7.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1087,,,Business,Unknown Location,Rawalpindi,12.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+1088,,,Business,Rawalpindi,Unknown Location,103.0,Meeting,,,,Long trip,Weekday,,,,,Night
+1089,,,Business,Unknown Location,Unknown Location,32.3,Meeting,,,,Long trip,Weekday,,,,,Night
+1090,,,Business,Unknown Location,Unknown Location,5.3,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1091,,,Business,Unknown Location,Unknown Location,11.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+1092,,,Business,Unknown Location,Unknown Location,23.2,Meeting,,,,Long trip,Weekday,,,,,Night
+1093,,,Business,Unknown Location,Unknown Location,3.2,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1094,,,Business,Unknown Location,Unknown Location,12.3,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1095,,,Business,Unknown Location,Lahore,14.0,Meeting,,,,Medium trip,Weekday,,,,,Night
+1096,,,Business,Lahore,Lahore,2.1,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1097,,,Business,Lahore,Lahore,2.1,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1098,,,Business,Lahore,Lahore,3.0,Meeting,,,,Short trip,Weekday,,,,,Night
+1099,,,Business,Lahore,Unknown Location,6.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+1100,,,Business,Unknown Location,Unknown Location,9.6,Meeting,,,,Medium trip,Weekday,,,,,Night
+1101,,,Business,Unknown Location,Unknown Location,1.3,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1102,,,Business,Unknown Location,Lahore,7.1,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1103,,,Business,Lahore,Unknown Location,6.3,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1104,,,Business,Unknown Location,Lahore,10.7,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1105,,,Business,Lahore,Lahore,5.3,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1106,,,Business,Lahore,Lahore,1.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1107,,,Business,Lahore,Lahore,3.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1108,,,Business,Lahore,Lahore,1.7,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1109,,,Business,Lahore,Lahore,2.9,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1110,,,Business,Lahore,Lahore,0.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1111,,,Business,Lahore,Lahore,0.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1112,,,Business,Lahore,Lahore,2.3,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1113,,,Business,Lahore,Lahore,2.3,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1114,,,Business,Lahore,Lahore,3.2,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1115,,,Business,Lahore,Lahore,6.2,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1116,,,Business,Lahore,Lahore,7.7,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1117,,,Business,Lahore,Lahore,3.8,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1118,,,Business,Lahore,Unknown Location,7.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+1119,,,Business,Karachi,Karachi,4.9,Temporary Site,,,,Short trip,Weekday,,,,,Night
+1120,,,Business,Karachi,Karachi,5.0,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1121,,,Business,Karachi,Karachi,0.6,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1122,,,Business,Karachi,Unknown Location,3.1,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1123,,,Business,Unknown Location,Karachi,7.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+1124,,,Business,Karachi,Karachi,5.5,Customer Visit,,,,Medium trip,Weekday,,,,,Night
+1125,,,Business,Karachi,Unknown Location,10.3,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1126,,,Business,Unknown Location,Karachi,10.4,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+1127,,,Business,Karachi,Karachi,2.0,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1128,,,Business,Karachi,Unknown Location,8.5,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1129,,,Business,Unknown Location,Karachi,4.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1130,,,Business,Karachi,Karachi,3.8,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1131,,,Business,Karachi,Karachi,5.1,Errand/Supplies,,,,Medium trip,Weekday,,,,,Night
+1132,,,Business,Karachi,Karachi,3.8,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1133,,,Business,Karachi,Unknown Location,11.6,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1134,,,Business,Unknown Location,Karachi,11.9,Meal/Entertain,,,,Medium trip,Weekday,,,,,Night
+1135,,,Business,Karachi,Karachi,1.4,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1136,,,Business,Karachi,Karachi,1.1,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1137,,,Business,Karachi,Karachi,4.1,Airport/Travel,,,,Short trip,Weekday,,,,,Night
+1138,,,Business,Karachi,Karachi,6.1,Between Offices,,,,Medium trip,Weekday,,,,,Night
+1139,,,Business,Karachi,Karachi,1.3,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1140,,,Business,Karachi,Unknown Location,3.0,Meal/Entertain,,,,Short trip,Weekday,,,,,Night
+1141,,,Business,Unknown Location,Karachi,4.1,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1142,,,Business,Karachi,Karachi,7.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+1144,,,Business,Unknown Location,Karachi,12.9,Meeting,,,,Medium trip,Weekday,,,,,Night
+1145,,,Business,Karachi,Karachi,2.8,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1146,,,Business,Karachi,Karachi,2.9,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1147,,,Business,Karachi,Karachi,4.6,Errand/Supplies,,,,Short trip,Weekday,,,,,Night
+1148,,,Business,Karachi,Karachi,4.6,Meeting,,,,Short trip,Weekday,,,,,Night
+1149,,,Business,Karachi,Karachi,0.8,Customer Visit,,,,Short trip,Weekday,,,,,Night
+1150,,,Business,Karachi,Karachi,0.7,Meeting,,,,Short trip,Weekday,,,,,Night
+1151,,,Business,Karachi,Unknown Location,3.9,Temporary Site,,,,Short trip,Weekday,,,,,Night
+1152,,,Business,Unknown Location,Unknown Location,16.2,Meeting,,,,Medium trip,Weekday,,,,,Night
+1153,,,Business,Katunayake,Gampaha,6.4,Temporary Site,,,,Medium trip,Weekday,,,,,Night
+1154,,,Business,Gampaha,Ilukwatta,48.2,Temporary Site,,,,Long trip,Weekday,,,,,Night
